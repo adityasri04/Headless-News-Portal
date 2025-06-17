@@ -142,13 +142,6 @@ git checkout -b feature/myFeature
 git commit -m "Added myFeature"
 git push origin feature/myFeature
 ```
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 ## 📬 Contact
